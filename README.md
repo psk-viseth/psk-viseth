@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there, I'm Sokunviseth
 
 <!--
 **psk-viseth/psk-viseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨‍💻 I am a Software Engineer.
+- 🚀 I work creating software that solve problems in a simple way and sharing what I learn along the way, Open-Source and personal development. 
+- 🌍 I'm based in Cambodia 🇰🇭
+- ✉️ Contact me at sokunviseth@gmail.com
